@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569077432473",
+    "project_id": "guftugu-ccf08",
+    "storage_bucket": "guftugu-ccf08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569077432473:android:367fdd4b9ef96a14c8b808",
+        "android_client_info": {
+          "package_name": "com.abhina1273838gmaiav.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569077432473-ugbjpgcj2bug2bk5uhb13vl4v7u1fc93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkH5y6Nba-px6YmqmJvspt4UdVWW8fpuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569077432473-ugbjpgcj2bug2bk5uhb13vl4v7u1fc93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
